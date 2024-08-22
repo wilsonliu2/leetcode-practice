@@ -8,4 +8,4 @@ time: O(n)
 
 use two pointer, odd and even.
 
-time: O(m \* n)
+time: O(n)
