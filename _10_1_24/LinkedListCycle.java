@@ -10,7 +10,7 @@ class ListNode {
     }
 }
 
-// turtle and hare algo, time O(n), space O(1)
+// turtle and hare tech, time O(n), space O(1)
 class Solution {
     public boolean hasCycle(ListNode head) {
         ListNode slow = head;
